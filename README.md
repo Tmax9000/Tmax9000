@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @Tmax9000
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Tmax9000/Tmax9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+/mio-sito
+├── index.html
+├── styles.css
+├── script.js
+└── images
+    ├── foto1.jpg
+    ├── foto2.png
